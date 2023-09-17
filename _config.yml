@@ -16,7 +16,7 @@
 title: From Bricks to Bytes - A Journey
 description: About Mehrzad
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://neuralbim-labs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mehrzadshm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # repository: just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty
