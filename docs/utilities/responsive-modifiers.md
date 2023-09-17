@@ -2,6 +2,7 @@
 layout: default
 title: Responsive Modifiers
 parent: Utilities
+search_exclude: true
 ---
 
 # Responsive modifiers

@@ -3,6 +3,7 @@ layout: default
 title: Callouts
 parent: UI Components
 nav_order: 7
+search_exclude: true
 ---
 
 # Callouts
