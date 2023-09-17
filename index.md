@@ -88,7 +88,7 @@ As someone who thrives at the intersection of research and practical application
 
 **Curious to explore the depth of my work? I invite you to journey with me.**
 
-[Explore Projects](/docs/projects/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Explore Projects](https://mehrzadshm.github.io/docs/projects){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
