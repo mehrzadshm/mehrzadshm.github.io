@@ -41,7 +41,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
   </div>
   <div style="flex: 0.1;"></div> <!-- Empty column for spacing -->
   <div style="flex: 1;">
-    <img src="/assets/images/test.gif" width="800">
+    <img src="/assets/images/ifc-neural.gif" width="800">
   </div>
 </div>
 ---
@@ -51,7 +51,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 <br>
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
-     <img src="/assets/images/test.gif" width="400">
+     <img src="/assets/images/entities.png" width="300">
   </div>
   <div style="flex: 0.1;"></div> <!-- Empty column for spacing -->
   <div style="flex: 1;">
